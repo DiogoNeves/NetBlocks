@@ -1,3 +1,5 @@
+[![Edit on Repl.it](https://replit.com/badge/github/DiogoNeves/NetBlocks)](https://replit.com/@KosmiCKhaoz/NetBlocks)
+
 # NetBlocks
 
 > An experiment on getting AFrame block building over the network.
@@ -12,4 +14,4 @@ npm run start
 ```
 
 Open a couple of Chrome windows and point to the server.  
-Alternatively, run in Replit and point to the Repl address.  
+Alternatively, run in Replit and point to the [Repl address](https://NetBlocks.kosmickhaoz.repl.co).  
