@@ -15,3 +15,5 @@ npm run start
 
 Open a couple of Chrome windows and point to the server.  
 Alternatively, run in Replit and point to the [Repl address](https://NetBlocks.kosmickhaoz.repl.co).  
+
+[![Preview](https://img.youtube.com/vi/RJeZ-quGp9U/0.jpg)](https://www.youtube.com/watch?v=RJeZ-quGp9U)
